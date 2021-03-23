@@ -11,7 +11,7 @@ https://cloud.google.com/gpu
 
 
 
-Second notebook train a model to classify images of flowers on Google's lightning-fast Cloud TPUs.
+Second notebook trains a model to classify images of flowers on Google's lightning-fast Cloud TPUs.
 
 https://cloud.google.com/tpu/
 
