@@ -1,4 +1,3 @@
-This notebooks shows the capabilities of Google graphics accelerators.
 ![try-the-demo](https://user-images.githubusercontent.com/56827081/112141324-33a32180-8be6-11eb-9ad2-23c406d748d9.gif)
 
 First notebook provides an observe TensorFlow speedup on GPU relative to CPU.
