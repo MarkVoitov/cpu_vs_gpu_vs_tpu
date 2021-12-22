@@ -6,7 +6,6 @@ https://cloud.google.com/gpu
 
 
 
-хер
 
 
 
